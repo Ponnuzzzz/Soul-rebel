@@ -27,9 +27,6 @@
        | © |
         Reserved |
     <br> 
-</p>
-<img src=https://i.imgur.com/8LiFere.png>
-</p>
 
 
 <a href="https://github.com/Afx-Abu/Abu_ser/fork"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
@@ -37,6 +34,9 @@
 <div>
 <a href="https://replit.com/@Arx-Abu/ABU-SER-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
+</p>
+<img src=https://i.imgur.com/XUARVah.png>
+</p>
 
 <a href="https://gist.github.com/Afx-Abu/e3ce6f2477b3490be424337ac1a2cb90"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
    <br>
