@@ -1,14 +1,14 @@
 {
-  "name": "Abu_ser",
+  "name": "Soul-rebel",
   "version": "7.3.6",
-  "description": "Abu is the Modified Version of WhatsAsena, Made By @Afx-Abu with Baileys.",
-  "main": "./Abu_ser/bot.js",
+  "description": "Soul is the Modified Version of WhatsAsena, Made By @Afx-Abu with Baileys.",
+  "main": "./Soul-rebel/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Afx-Abu/Abu_ser.git"
+    "url": "git+https://github.com/Ponnuzzzz/Soul-rebel.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,12 +18,12 @@
     "WhatsAsena"
   ],
   "author": "Afx-Abu",
-  "developer": "@Afx-Abu / @Afx-Abu",
+  "developer": "@Afx-Abu / @Ponnuzzzz",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Afx-Abu/Abu_ser/issues"
+    "url": "https://github.com/Ponnuzzzz/Soul-rebel/issues"
   },
-  "homepage": "https://github.com/Afx-Abu/Abu_ser#readme",
+  "homepage": "https://github.com/Ponnuzzzz/Soul-rebel#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.3",
     "@lh2020/speedtest-net": "^2.1.1",
