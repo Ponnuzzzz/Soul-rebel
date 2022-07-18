@@ -42,7 +42,7 @@ Module({
     try {
         require('./' + plugin_name);
     } catch (e) {
-        fs.unlinkSync('/Jsl/Abu/plugins/' + plugin_name + '.js')
+        fs.unlinkSync('/Ponnuzzzz/Soul-rebel/plugins/' + plugin_name + '.js')
         return await message.sendReply(Lang.INVALID_PLUGIN + e);
     }
     await Db.installPlugin(url, plugin_name);
