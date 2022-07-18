@@ -10,7 +10,17 @@
 
  </a>
 </p>
+ </a>
+</p>
+<div align="center">
+  <p align="center">
+<img src="https://i.imgur.com/Q5IxwM8.jpeg" alt="GIF" width="300" height="270"/>
+</p>
 
+  <p align="center">
+<a href="#"><img title="REBEL" src="https://img.shields.io/badge/REBEL-SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+</div>
 
 <div>
 <a href="https://raganork-india.vercel.app/qr"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
