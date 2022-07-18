@@ -41,7 +41,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ᴀʙᴜ-ᴍᴅ"
+            "value":"REBEL SER"
         },
         "CHATBOT": {
             "description": "AI chatbot",
