@@ -1,11 +1,11 @@
 {
-	"name": "abu-md",
+	"name": "Soul-rebel",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/Afx-Abu/abu-md",
+	"repository": "https://github.com/Ponnuzzzz/Soul-rebel",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -51,12 +51,12 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"ᴀʙᴜ ᴍᴅ"
+            "value":"SOUL REBEL"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
             "required": true,
-            "value":"ᴊsʟ-ᴀʙᴜ;ᴀʙᴜ-ᴍᴅ;https://i.imgur.com/qzy267V.jpeg"
+            "value":"sᴏᴜʟ ʀᴇʙᴇʟ;ʀᴇʙᴇʟ sᴇʀ;https://i.imgur.com/qzy267V.jpeg"
         },
         "MODE": {
             "description": "Private or public",
@@ -66,7 +66,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"917025994178"
+            "value":"918547062392"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
@@ -86,6 +86,6 @@
       "url": "heroku-community/apt"
       },
       {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": "https://github.com/Afx-Abu/abu-heroku-buildpack-webp-binaries.git"
       }]
   }
