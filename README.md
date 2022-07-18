@@ -17,5 +17,3 @@
 <br>
 <a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fabu-jid.vercel.app%2F&template=https%3A%2F%2Fgithub.com%2FPonnuzzzz%2FSoul-Rebel"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
-
-THANK ALL 
